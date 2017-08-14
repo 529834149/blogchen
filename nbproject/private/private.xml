@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/blog/resources/views/layouts/main.blade.php</file>
+            <file>file:/D:/xampp/htdocs/blog/app/Http/routes.php</file>
+            <file>file:/D:/xampp/htdocs/blog/resources/views/article/detais.blade.php</file>
+            <file>file:/D:/xampp/htdocs/blog/app/Http/Controllers/User/UserController.php</file>
+            <file>file:/D:/xampp/htdocs/blog/resources/views/header_top/header_top.blade.php</file>
+            <file>file:/D:/xampp/htdocs/blog/public/assets/default/js/common.js</file>
+        </group>
+    </open-files>
+</project-private>
