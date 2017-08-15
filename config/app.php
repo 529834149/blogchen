@@ -109,7 +109,7 @@ return [
     */
 
     'log' => env('APP_LOG', 'single'),
-
+    // 'Socialite' => Laravel\Socialite\Facades\Socialite::class,
     /*
     |--------------------------------------------------------------------------
     | Autoloaded Service Providers
@@ -147,6 +147,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        // SocialiteProviders\Manager\ServiceProvider::class, // 添加
 
         /*
          * Application Service Providers...
